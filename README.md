@@ -214,8 +214,7 @@ text
 ### Clone the Repository
 
 bash
-git clone https://github.com/yourusername/customer-data-cleaning.git
-
+git clone https://github.com/pallavimetri59-oss/Data_Cleaning-customer_dataset-.git
 
 ### Install Required Library
 
